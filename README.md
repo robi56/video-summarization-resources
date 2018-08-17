@@ -72,7 +72,7 @@ Location: https://sites.google.com/site/vsummsite/download
    https://github.com/kezhang-cs/Video-Summarization-with-LSTM
 
 ## Papers: 
-### query-focused 
+### Query-focused 
 1. http://openaccess.thecvf.com/content_cvpr_2017/papers/Sharghi_Query-Focused_Video_Summarization_CVPR_2017_paper.pdf | Query-Focused Video Summarization: Dataset, Evaluation, and A Memory Network Based Approach
 
 2. http://openaccess.thecvf.com/content_cvpr_2017/papers/Plummer_Enhancing_Video_Summarization_CVPR_2017_paper.pdf | Enhancing Video Summarization via Vision-Language Embedding
