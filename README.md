@@ -60,7 +60,8 @@ Location: https://sites.google.com/site/vsummsite/download
    https://github.com/shruti-jadon/Video-Summarization
 
 6. SnapStitch
-   https://github.com/avikj/SnapStitch
+   https://github.com/avikj/SnapStitch <\n>
+   Service: http://www.hackathon.io/snapstitch
 
 
 
