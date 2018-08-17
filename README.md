@@ -5,6 +5,7 @@ Video Summarization Dataset, Papers, Codes
 ### 1 MED Summaries 
 Location:  http://lear.inrialpes.fr/people/potapov/med_summaries
 About: The "MED Summaries" is a new dataset for evaluation of dynamic video summaries. It contains annotations of 160 videos: a validation set of 60 videos and a test set of 100 videos. There are 10 event categories in the test set.
+
 Reference Paper:
 - Category-specific video summarization D.Potapov, M.Douze, Z.Harchaoui, C.Schmid, ECCV 2014 |  hal.inria.fr/hal-01022967/
 
@@ -17,6 +18,7 @@ About: Title-based Video Summarization (TVSum) dataset serves as a benchmark to 
 The videos, collected from YouTube, comes with the Creative Commons CC-BY (v3.0) license. We release both the video files and their URLs. The shot-level importance scores are annotated via Amazon Mechanical Turk -- each video was annotated by 20 crowd-workers. The dataset has been reviewed to conform to Yahoo's data protection standards, including strict controls on privacy.
 
 Reference Paper:
+
 - TVSum: Summarizing web videos using titles | https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Song_TVSum_Summarizing_Web_2015_CVPR_paper.pdf
 
 ### 3  UT Egocentric (UT Ego) Dataset 
