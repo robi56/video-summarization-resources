@@ -34,7 +34,8 @@ Reference Paper:
 -  Discovering Important People and Objects for Egocentric Video Summarization| http://vision.cs.utexas.edu/projects/egocentric/
 - Story-Driven Summarization for Egocentric Video.| vision.cs.utexas.edu/projects/egocentric/storydriven.html
 
-### 4 https://sites.google.com/site/vsummsite/download 
+### 4 youtube dataset (small)
+Location: https://sites.google.com/site/vsummsite/download 
   
 
 
