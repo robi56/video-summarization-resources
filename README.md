@@ -1,4 +1,4 @@
-# video-summarization-techniques
+# video-summarization-resources
 Video Summarization Dataset, Papers, Codes 
 
 ## Dataset: 
