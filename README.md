@@ -71,4 +71,23 @@ Location: https://sites.google.com/site/vsummsite/download
 7. Video-Summarization-with-LSTM
    https://github.com/kezhang-cs/Video-Summarization-with-LSTM
 
+## Papers: 
+### query-focused 
+1. http://openaccess.thecvf.com/content_cvpr_2017/papers/Sharghi_Query-Focused_Video_Summarization_CVPR_2017_paper.pdf | Query-Focused Video Summarization: Dataset, Evaluation, and A Memory Network Based Approach
+
+2. http://openaccess.thecvf.com/content_cvpr_2017/papers/Plummer_Enhancing_Video_Summarization_CVPR_2017_paper.pdf | Enhancing Video Summarization via Vision-Language Embedding
+
+3. https://arxiv.org/abs/1704.01466   A Unified Multi-Faceted Video Summarization System
+
+4. https://arxiv.org/pdf/1705.00581.pdf | Query-adaptive Video Summarization via Quality-aware Relevance Estimation
+
+5. https://arxiv.org/abs/1807.06677 |  Query-Conditioned Three-Player Adversarial Network for Video Summarization
+
+### RL + GAN+ DL
+1. https://arxiv.org/pdf/1804.11228.pdf | DTR-GAN: Dilated Temporal Relational Adversarial Network for Video Summarization
+
+2. https://arxiv.org/pdf/1801.00054.pdf | Deep Reinforcement Learning for Unsupervised Video Summarization with
+Diversity-Representativeness Reward
+
+
    
