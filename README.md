@@ -36,7 +36,7 @@ Due to privacy reasons, we are able to share only 4 of the 10 videos originally 
 -  Discovering Important People and Objects for Egocentric Video Summarization| http://vision.cs.utexas.edu/projects/egocentric/
 - Story-Driven Summarization for Egocentric Video.| vision.cs.utexas.edu/projects/egocentric/storydriven.html
 
-### 4 youtube dataset (small)
+### 4 Youtube dataset (small)
 Location: https://sites.google.com/site/vsummsite/download 
   
 
@@ -60,7 +60,8 @@ Location: https://sites.google.com/site/vsummsite/download
    https://github.com/shruti-jadon/Video-Summarization
 
 6. SnapStitch
-   https://github.com/avikj/SnapStitch <\n>
+   https://github.com/avikj/SnapStitch 
+   
    Service: http://www.hackathon.io/snapstitch
 
 
