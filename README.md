@@ -36,9 +36,13 @@ Due to privacy reasons, we are able to share only 4 of the 10 videos originally 
 -  Discovering Important People and Objects for Egocentric Video Summarization| http://vision.cs.utexas.edu/projects/egocentric/
 - Story-Driven Summarization for Egocentric Video.| vision.cs.utexas.edu/projects/egocentric/storydriven.html
 
-### 4 Youtube dataset (small)
+### 4 Youtube Dataset (small)
 Location: https://sites.google.com/site/vsummsite/download 
   
+### 5 SumMe Dataset 
+**Location:** http://classif.ai/dataset/ethz-cvl-video-summe/
+
+**About:**  The Video Summarization (SumMe) dataset consists of 25 videos, each annotated with at least 15 human summaries (390 in total). The data consists of videos, annotations and evaluation code, as used in this paper. The groundtruth is a new paradigm in evaluation as it stems from a psychological experiment and allows a consistent automatic evaluation, rather than a user study each time there is a new summary result. Download You can download the data (Size: 2.2 GB) from: http://www.vision.ee.ethz.ch/~gyglim/vsum/ References Creating Summaries from User Videos Michael Gygli, Helmut Grabner, Hayko Riemenschneider and Luc Van Gool published in ECCV 2014, Zurich.
 
 
 ## Git Repositories: 
@@ -64,6 +68,7 @@ Location: https://sites.google.com/site/vsummsite/download
    
    Service: http://www.hackathon.io/snapstitch
 
-
+7. Video-Summarization-with-LSTM
+   https://github.com/kezhang-cs/Video-Summarization-with-LSTM
 
    
